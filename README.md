@@ -1,0 +1,2 @@
+# Chapter Descriptive Statistics
+ Welcome to the Descriptive Statistics repository! 📊 Dive into the world of statistics with this collection of code snippets and resources focused on essential descriptive statistical measures such as mean, median, and mode. Explore practical implementations, intuitive explanations, and helpful visualizations to gain a deeper understanding of data analysis fundamentals. Let's make statistics accessible and actionable together!
